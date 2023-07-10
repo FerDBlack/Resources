@@ -1,5 +1,5 @@
 # Resources
-Repositorio para que los desarrolladores tengan a su disposición lo mayores recursos posibles para desarrollar su actividad lo mejor posible.
+Repositorio para que los desarrolladores tengan a su disposición de los mayores recursos posibles para desarrollar su actividad lo mejor posible.
 
 ## Lenguajes de progración 👨‍💻
 - [List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books)
@@ -8,7 +8,7 @@ Repositorio para que los desarrolladores tengan a su disposición lo mayores rec
 ## Proyectos de práctica
 - [50 Projects in 50 Days - HTML/CSS and JavaScript](https://github.com/bradtraversy/50projects50days)	
 
-## Buenas practicas 
+## Buenas prácticas 
 - [Clean code](https://github.com/ryanmcdermott/clean-code-javascript)	
 
 ## API´S
