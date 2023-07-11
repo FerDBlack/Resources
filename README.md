@@ -14,6 +14,7 @@ Repositorio para que los desarrolladores tengan a su disposición de los mayores
 - [Design Patterns](https://github.com/DovAmir/awesome-design-patterns#big-data)
 
 ## API´S
+- [Public API's](https://github.com/public-apis/public-apis)
 
 ## Paletas y colores 🎨
 - [aicolors](https://aicolors.co/)
