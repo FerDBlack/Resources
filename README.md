@@ -7,7 +7,8 @@ Repositorio para que los desarrolladores tengan a su disposición de los mayores
 - [More programming books](https://github.com/midudev/libros-programacion-gratis)
 
 ## Proyectos de práctica
-- [50 Projects in 50 Days - HTML/CSS and JavaScript](https://github.com/bradtraversy/50projects50days)	
+- [50 Projects in 50 Days - HTML/CSS and JavaScript](https://github.com/bradtraversy/50projects50days)
+- [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 
 ## Buenas prácticas 
 - [Clean code](https://github.com/ryanmcdermott/clean-code-javascript)
