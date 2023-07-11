@@ -22,4 +22,4 @@ Repositorio para que los desarrolladores tengan a su disposición de los mayores
 ## Formación general
 - [Free for dev](https://github.com/ripienaar/free-for-dev)
 - [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#learn-ai)
- 
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
