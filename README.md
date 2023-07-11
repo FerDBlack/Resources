@@ -10,7 +10,8 @@ Repositorio para que los desarrolladores tengan a su disposición de los mayores
 - [50 Projects in 50 Days - HTML/CSS and JavaScript](https://github.com/bradtraversy/50projects50days)	
 
 ## Buenas prácticas 
-- [Clean code](https://github.com/ryanmcdermott/clean-code-javascript)	
+- [Clean code](https://github.com/ryanmcdermott/clean-code-javascript)
+- [Design Patterns](https://github.com/DovAmir/awesome-design-patterns#big-data)
 
 ## API´S
 
