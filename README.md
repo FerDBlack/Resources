@@ -19,6 +19,6 @@ Repositorio para que los desarrolladores tengan a su disposición de los mayores
 - [aicolors](https://aicolors.co/)
 
 ## Formación general
-- [Free for dev](https://github.com/ripienaar/free-for-dev)	
-
+- [Free for dev](https://github.com/ripienaar/free-for-dev)
+- [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#learn-ai)
  
