@@ -4,6 +4,7 @@ Repositorio para que los desarrolladores tengan a su disposición de los mayores
 ## Lenguajes de progración 👨‍💻
 - [List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books)
 - [Free programming books](https://books.goalkicker.com/)
+- [More programming books](https://github.com/midudev/libros-programacion-gratis)
 
 ## Proyectos de práctica
 - [50 Projects in 50 Days - HTML/CSS and JavaScript](https://github.com/bradtraversy/50projects50days)	
