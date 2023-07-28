@@ -24,6 +24,9 @@ Repositorio para que los desarrolladores tengan a su disposición de los mayores
 ## Paletas y colores 🎨
 - [aicolors](https://aicolors.co/)
 
+## Regex
+- [Tester con debugger para expresiones regulares](https://regex101.com/)
+
 ## Formación general
 - [Free for dev](https://github.com/ripienaar/free-for-dev)
 - [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#learn-ai)
