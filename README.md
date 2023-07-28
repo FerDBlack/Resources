@@ -6,6 +6,10 @@ Repositorio para que los desarrolladores tengan a su disposición de los mayores
 - [Free programming books](https://books.goalkicker.com/)
 - [More programming books](https://github.com/midudev/libros-programacion-gratis)
 
+## DATABASE
+### Herramientas para hacer diagramas
+- [dbdiagrama.io](https://dbdiagram.io/home)
+
 ## Proyectos de práctica
 - [50 Projects in 50 Days - HTML/CSS and JavaScript](https://github.com/bradtraversy/50projects50days)
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
